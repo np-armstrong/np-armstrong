@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @np-armstrong
 
+- 🛠️ Technologies I work with (Current) 
+  -  Flutter/Dart
+  -  Python
+  -  Java
+  -  SQL
+
 - 🎓 I'm currently completing my MSc Computer Science
   
   **Modules Completed So Far**
