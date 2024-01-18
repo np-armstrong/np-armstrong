@@ -37,6 +37,9 @@
   -  Angular
   -  Lit
   -  Swift
+  -  PHP 8
+  -  Node.js
+  -  Laravel
  
 - 👨🏼‍💻 Freelancing Work
   -  TBC
