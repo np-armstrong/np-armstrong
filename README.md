@@ -31,8 +31,10 @@
  
 - 👀 I’m interested in ...
   - Mobile Application Development
-  - PWAs
-  - AR/VR 
+  - Web App Development
+  - AppSec
+  - Web3
+
     
 - 🌱 I’m currently learning ...
 
@@ -40,7 +42,7 @@
   -  Rust
   -  Solana
   -  Tailwind
-
+  -  Linux
  
 - 👨🏼‍💻 Freelancing Work
   -  TBC
