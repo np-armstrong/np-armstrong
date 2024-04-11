@@ -5,6 +5,11 @@
   -  Python
   -  Java
   -  SQL
+  -  React
+  -  PHP 8
+  -  Node.js
+  -  Laravel
+  -  Bootstrap
 
 - 🎓 I'm currently completing my MSc Computer Science
   
@@ -17,14 +22,11 @@
   - Research Methods
   - Database Systems & Security
   - Data Mining & Informatics
- 
-  **In progress**
-  
   - Web Technologies
   - Concepts and Technologies of AI
  
-  **Pending**
-  
+  **In progress**
+
   - Dissertation
  
 - 👀 I’m interested in ...
@@ -33,13 +35,12 @@
   - AR/VR 
     
 - 🌱 I’m currently learning ...
-  -  React
-  -  Angular
-  -  Lit
+
   -  Swift
-  -  PHP 8
-  -  Node.js
-  -  Laravel
+  -  Rust
+  -  Solana
+  -  Tailwind
+
  
 - 👨🏼‍💻 Freelancing Work
   -  TBC
