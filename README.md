@@ -27,7 +27,7 @@
  
   **In progress**
 
-  - Dissertation
+  - Dissertation - A study into the security risks involved in AI assisted web development
  
 - 👀 I’m interested in ...
   - Mobile Application Development
