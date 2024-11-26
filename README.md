@@ -10,7 +10,7 @@
   -  PHP
   -  Laravel
 
-- 🎓 I'm currently completing my MSc Computer Science
+- 🎓 I have recently completed my MSc Computer Science
   
   **Modules Completed**
   
@@ -23,7 +23,7 @@
   - Data Mining & Informatics
   - Web Technologies
   - Concepts and Technologies of AI
-  - Dissertation - A study into the security risks involved in AI assisted web development
+  - Dissertation (Currently working towards publishing the research in an academic journal) 
  
 - 👀 I’m interested in ...
   - Mobile Application Development
